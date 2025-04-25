@@ -1,5 +1,6 @@
 # index-html
-<!DOCTYPE html><html>
+<!DOCTYPE html>
+<html>
   <head>
     <meta charset="utf-8">
     <title>Halaman Profil Bandung</title>
@@ -70,7 +71,7 @@
       Berada di jalur utama Bandung-Lembang, Farm House menjadi objek wisata
       yang tidak pernah sepi pengunjung. Selain karena letaknya strategis,
       kawasan ini juga menghadirkan nuansa wisata khas Eropa. Semua itu
-      diterapkan dalam bentuk spot swafoto Instagramable.
+      diterapkan dalam bentuk spot swafoto <q>Instagramable</q>.
     </p>
  
     <h3><li>Observatorium Bosscha</li></h3>
@@ -86,6 +87,19 @@
       pendidikan, diberikan jadwal hari Selasa sampai Jumat. Sementara itu,
       kunjungan individu dibuka setiap hari Sabtu.
     </ul>
-    </p>
-  </body>
-</html>
+    <p>Hubungi kami di</p>
+<ul>
+  <li><a href="https://mrid-co.github.io"><em>Website</em></a></li>
+  <li><a href="midho965@gmail.com"><em>Email</em></a></li>
+  <li><a href="088210761515"><em>Telepon</em></a></li>
+  <li><a href="#address"><em>Alamat</em></a></li>
+</ul>
+<p><sub>Salah</sub> <mark>satu</mark> persamaan paling umum dalam semua fisika adalah E=MC<sup>2</sup></p>
+<p><dfn>Informasi</dfn> selengkapnya bisa Anda dapatkan di <cite><a href="https://dicoding.com">dicoding.com</a></cite>.</p>
+
+<p>
+  Dicoding Space,<br>
+  Jln. Batik Kumeli No. 50.<br>
+  Bandung.<br>
+  40123
+</p>
