@@ -4,14 +4,16 @@
   <head>
     <meta charset="utf-8">
     <title>Halaman Profil Bandung</title>
-</head>
+  </head>
   <body>
+<header>
     <h1>Bandung</h1>
     <p>
       Kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu
       kota provinsi tersebut.
     </p>
-
+    
+  <nav>
     <ul>
       <li>
         <a href="#Sejarah">Sejarah</a>
@@ -23,8 +25,9 @@
         <a href="#Wisata">Wisata</a>
       </li>
     </ul>
+  </nav>
+</header>
 
- 
   <ul> 
     <h2 id="Sejarah">Sejarah</h2>
     <img src="assets/image/history.jpg" alt="history" />
