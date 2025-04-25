@@ -11,9 +11,22 @@
       Kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu
       kota provinsi tersebut.
     </p>
+
+    <ul>
+      <li>
+        <a href="#Sejarah">Sejarah</a>
+      </li>
+      <li>
+        <a href="#Geografis">Geografis</a>
+      </li>
+      <li>
+        <a href="#Wisata">Wisata</a>
+      </li>
+    </ul>
+
  
   <ul> 
-    <h2>Sejarah</h2>
+    <h2 id="Sejarah">Sejarah</h2>
     <img src="assets/image/history.jpg" alt="history" />
     <p>
       <strong>Kata Bandung</strong> berasal dari kata bendung atau bendungan karena terbendungnya
@@ -36,7 +49,7 @@
     </p>
  
  
-    <h2>Geografis</h2>
+    <h2 id="Geografis">Geografis</h2>
     <img src="assets/image/geografis.jpg" alt="geografis" />
     <p>
       Kota Bandung dikelilingi oleh pegunungan, sehingga bentuk morfologi
@@ -56,7 +69,7 @@
     </p>
  
  
-    <h2>Wisata</h2>
+    <h2 id="Wisata">Wisata</h2>
     <p>
       Sejak dibukanya Jalan Tol Cipularang, kota Bandung telah menjadi tujuan
       utama dalam menikmati liburan akhir pekan terutama dari masyarakat yang
@@ -103,3 +116,6 @@
   Bandung.<br>
   40123
 </p>
+    </p>
+  </body>
+</html>
