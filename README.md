@@ -181,6 +181,18 @@
   <label for="password">Password</label>
   <br>
   <input type="password" id="password" />
+
+  <div>
+  <label for="email">Email</label>
+  <br />
+  <input type="email" id="email" placeholder="example@mail.com" required />
+</div>
+
+<div>
+  <label for="password">Password</label>
+  <br />
+  <input type="password" id="password" placeholder="********" required />
+</div>
 </div>
 <textarea rows="6" cols="16">
   Belajar
