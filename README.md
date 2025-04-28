@@ -169,7 +169,7 @@
 
 <div>
   email:
-  <input text="email ./">
+  <input type="email ./">
 </div>
 <textarea rows="6" cols="16">
   Belajar
