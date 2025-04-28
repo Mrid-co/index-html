@@ -28,8 +28,10 @@
   </nav>
 </header>
 
-  <ul> 
-    <h2 id="Sejarah">Sejarah</h2>
+<main>
+ <div id="content">
+   <article id="Sejarah">
+    <h2>Sejarah</h2>
     <img src="assets/image/history.jpg" alt="history" />
     <p>
       <strong>Kata Bandung</strong> berasal dari kata bendung atau bendungan karena terbendungnya
@@ -50,9 +52,10 @@
       banda adalah harta. Indung berarti Ibu atau Bumi, disebut juga sebagai Ibu
       Pertiwi tempat Banda berada.
     </p>
+   </article>
  
- 
-    <h2 id="Geografis">Geografis</h2>
+   <article id="Geografis">
+    <h2>Geografis</h2>
     <img src="assets/image/geografis.jpg" alt="geografis" />
     <p>
       Kota Bandung dikelilingi oleh pegunungan, sehingga bentuk morfologi
@@ -70,9 +73,10 @@
       Bandung selatan sangat rentan terhadap masalah banjir terutama pada musim
       hujan.
     </p>
- 
- 
-    <h2 id="Wisata">Wisata</h2>
+   </article>
+
+   <article id="Wisata">
+    <h2>Wisata</h2>
     <p>
       Sejak dibukanya Jalan Tol Cipularang, kota Bandung telah menjadi tujuan
       utama dalam menikmati liburan akhir pekan terutama dari masyarakat yang
@@ -80,7 +84,9 @@
       Bandung juga dikenal dengan sejumlah besar bangunan lama berarsitektur
       peninggalan Belanda.
     </p>
- 
+    
+ <section>   
+  <ul>
     <h3><li>Farm House Lembang</li></h3>
     <img src="assets/image/farm-house.jpg" alt="farm-house" />
     <p>
@@ -89,7 +95,9 @@
       kawasan ini juga menghadirkan nuansa wisata khas Eropa. Semua itu
       diterapkan dalam bentuk spot swafoto <q>Instagramable</q>.
     </p>
+  </section> 
  
+  <section>
     <h3><li>Observatorium Bosscha</li></h3>
     <img src="assets/image/bosscha.jpg" alt="bosscha" />
     <p>
@@ -103,6 +111,10 @@
       pendidikan, diberikan jadwal hari Selasa sampai Jumat. Sementara itu,
       kunjungan individu dibuka setiap hari Sabtu.
     </ul>
+  </section>
+</article>
+
+  <section>
     <p>Hubungi kami di</p>
 <ul>
   <li><a href="https://mrid-co.github.io"><em>Website</em></a></li>
@@ -110,15 +122,69 @@
   <li><a href="088210761515"><em>Telepon</em></a></li>
   <li><a href="#address"><em>Alamat</em></a></li>
 </ul>
-<p><sub>Salah</sub> <mark>satu</mark> persamaan paling umum dalam semua fisika adalah E=MC<sup>2</sup></p>
-<p><dfn>Informasi</dfn> selengkapnya bisa Anda dapatkan di <cite><a href="https://dicoding.com">dicoding.com</a></cite>.</p>
-
-<p>
-  Dicoding Space,<br>
-  Jln. Batik Kumeli No. 50.<br>
-  Bandung.<br>
-  40123
-</p>
     </p>
+  </section>
+</div>
+
+ <aside>
+  <article>
+    <header>
+  <h2>Kota Bandung</h2>
+    <p>Kota Kembang Paris van Java</p>
+    <figure>
+      <img src="assets/image/Bandung_coa.png">
+      <figcaption>Lambang</figcaption>
+    </figure>
+  </header>
+   <section>
+
+   </section>
+    </article>
+  </aside>
+</main>
+
+<h3><mark><dfn>Informasi</dfn></mark> <sub>selengkapnya</sub></h3>
+<table>
+  <tr>
+    <th>Negara</th>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <th>Hari jadi</th>
+    <td>25 September 1810</td>
+  </tr>
+  <tr>
+    <th>Luas Total</th>
+    <td>167.67 km</td>
+  </tr>
+  <tr>
+    <th>Bahasa daerah</th>
+    <td>Sunda</td>
+  </tr>
+  <tr>
+    <th>Kode Telepon</th>
+    <td>+62 22</td>
+  </tr>
+</table>
+
+<div>
+  email:
+  <input text="email ./">
+</div>
+<textarea rows="6" cols="16">
+  Belajar
+  Dasar
+  Pemrograman
+  Web
+  </textarea>
+<footer>
+    <p><strong>Belajar Dasar Pemrograman Web &#169; 2019, <cite><a href="https://dicoding.com">dicoding.com<sup>0</sup></a></cite>.</strong></p>
+    <p>
+      Dicoding Space,<br>
+      Jln. Batik Kumeli No. 50.<br>
+      Bandung.<br>
+      40123<br>
+      </p>
+  </footer>
   </body>
 </html>
