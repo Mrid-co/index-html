@@ -171,6 +171,17 @@
   email:
   <input type="email ./">
 </div>
+<div>
+  <label for="email">Email</label>
+  <br>
+  <input type="email" id="email" />
+</div>
+
+<div>
+  <label for="password">Password</label>
+  <br>
+  <input type="password" id="password" />
+</div>
 <textarea rows="6" cols="16">
   Belajar
   Dasar
